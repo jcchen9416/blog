@@ -1,6 +1,7 @@
 +++
 title = "ox-hugo"
 author = ["jcchen"]
+date = 2019-02-08T13:00:00+08:00
 tags = ["hugo", "ox-hugo"]
 draft = false
 +++
@@ -25,6 +26,8 @@ draft = false
 
 
 ### org capture setup {#org-capture-setup}
+
+TO BE IMPLEMENT
 
 
 ### auto export {#auto-export}

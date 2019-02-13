@@ -1,6 +1,7 @@
 +++
 title = "my first hugo post"
 author = ["jcchen"]
+date = 2019-02-08T12:00:00+08:00
 tags = ["hugo"]
 draft = false
 +++
