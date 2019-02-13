@@ -7,6 +7,8 @@ draft = false
 
 Hello hugo.
 
+Will be remove soon!
+
 
 ## Hugo Features {#hugo-features}
 
