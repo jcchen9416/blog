@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "zh-cn"		# "en-us"
+title = "jc blog"
+
+theme = "ananke"		# "ananke"
+hasCJKLanguage = true

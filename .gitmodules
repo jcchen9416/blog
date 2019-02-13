@@ -1,0 +1,6 @@
+[submodule "themes/hugo-goa"]
+	path = themes/hugo-goa
+	url = https://github.com/shenoybr/hugo-goa
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
