@@ -6,6 +6,10 @@ tags = ["scala"]
 draft = false
 +++
 
+The following shows you how to use scala pattern match on Array and List.
+
+<!--more-->
+
 Pattern match on Array.
 
 ```scala
