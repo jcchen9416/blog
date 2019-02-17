@@ -4,3 +4,6 @@ title = "jc blog"
 
 theme = "ananke"		# "ananke"
 hasCJKLanguage = true
+
+googleAnalytics = "UA-134660551-1"
+disqusShortname = "jcchen9416-blog"
