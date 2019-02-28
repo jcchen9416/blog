@@ -24,7 +24,7 @@ toc = true
 
 ### 图片,表格,代码块 {#图片-表格-代码块}
 
-<a id="org25bf290"></a>
+<a id="orgb03384a"></a>
 
 {{< figure src="/images/pikachu.png" caption="Figure 1: inline image, don't click" >}}
 
@@ -62,10 +62,6 @@ str = "hello-world"
 print(str[1:5])
 {{< /highlight >}}
 
-```text
-ello
-```
-
 下面是一段公式:
 
 If \\(a^2=b\\) and \\( b = 2 \\), then the solution must be either
@@ -81,6 +77,13 @@ hugo会自动带toc的功能. 这个要看主题(theme)的支持情况.
 
 ```org
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :toc true
+```
+
+如果是单文件导出的话,就用 keyword 方式代替 properties 方式.
+
+```org
+#+hugo_custom_front_matter: :key1 value1
+#+hugo_custom_front_matter: :key2 value2
 ```
 
 正因为hugo自带toc功能,因此,ox-hugo默认是没有启用org-mode的toc导出功能.
